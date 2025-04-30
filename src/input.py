@@ -7,3 +7,4 @@ def get_inputs():
     except ValueError:
         print("Invalid input. Please enter numeric values.")
         return None, None, None
+# hi
